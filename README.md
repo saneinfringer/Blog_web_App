@@ -61,7 +61,7 @@ git clone https://github.com/your-username/blog-project.git
 2. Navigate to the project folder
 
 ```bash
-cd blog-project
+cd folder-name
 ```
 
 3. Install dependencies
@@ -71,6 +71,11 @@ npm install
 ```
 
 4. Start the server
+
+```bash
+node server.js
+```
+5. Start the Api Server (index.js)
 
 ```bash
 node index.js
